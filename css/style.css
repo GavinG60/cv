@@ -1,0 +1,203 @@
+body {
+    background-color: #B1E1FF;
+    margin: 0px;
+}
+
+.intro {
+    background-color: #AFB4FF;
+    text-align: center;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.information {
+    background-color: #B1E1FF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.copyright {
+    background-color: #A66CFF;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 15px;
+    border-top-style: solid;
+    border-width: 4px;
+}
+
+h1 {
+    font-family: 'Yeseva One', serif;
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    color: #A66CFF;
+}
+
+hr {
+    border-top: 5px dotted #9C9EFE;
+    border-bottom: none;
+}
+
+.img3 {
+    position: absolute;
+    top: 9em;
+    right: 28em;
+}
+
+.img2 {
+    position:absolute;
+    top: 9em;
+    left: 28em;
+}
+
+.img1 {
+    border-radius: 8px;
+}
+
+#hello {
+    font-family: 'Gloria Hallelujah', serif;
+}
+
+#skills {
+    color: #A66CFF;
+    font-size: 40px;
+}
+
+.list {
+    list-style: none;
+}
+
+.languages {
+    width: 20%;
+    margin: 30px auto; 
+    padding-bottom: 90px;
+    height: 150px;
+}
+
+.left {
+    float: left;
+    width: 50%;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.tools {
+    float: right;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.leadership {
+    width: 50%;
+    margin: 30px auto; 
+    padding-bottom: 100px;
+    height:100px;
+}
+
+.imgUGA {
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.experience {
+    float: right;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.skills {
+    width: 35%;
+    margin: 30px auto; 
+    padding-bottom: 50px;
+    height:40px;
+}
+
+.monitor {
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ratings {
+    float: right;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.link:link {
+    text-decoration: none;
+    color: #A66CFF;
+}
+
+.link:visited {
+    text-decoration: none;
+    color: #A66CFF;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: #9C9EFE;
+}
+
+.link:active {
+    text-decoration: none;
+    color: #A66CFF;
+}
+
+.button {
+    
+    border: 2px dotted #9C9EFE;
+    color: #A66CFF;
+    padding: 17px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.center {
+    text-align: center;
+}
+
+.contact {
+    color: #A66CFF;
+    text-align: center;
+}
+
+.contactInfo {
+    text-align: center;
+}
+
+.inputBoxes {
+    padding: 20px;
+    width:5%;
+    text-align: center;
+}
+
+.emailInfo {
+    float: left;
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.submission {
+    float: right;
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
